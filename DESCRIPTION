@@ -1,0 +1,16 @@
+Package: ohwhaley
+Title: Ohwhaley
+Version: 0.0.0.9000
+Authors@R: 
+    person("Dylan", "Adikari", , "dylan.adikari@students.mq.edu.au", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Summon a whale for a customisable pick me up.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports: 
+    magrittr
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
