@@ -62,3 +62,5 @@ say("hello")
 say("Hallo, wie gehts am dieses schönen tag?")
 
 say(hello)
+
+gh::gh_whoami()
